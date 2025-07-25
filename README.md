@@ -35,7 +35,7 @@ js-fundamentals-jest/
    npm test
    ```
 
-## 📝 How to Complete the Tests
+## How to Complete the Tests
 
 ### Step 1: Understand the Workflow
 
