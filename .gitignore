@@ -56,12 +56,3 @@ package-lock.json
 # Temporary folders
 tmp/
 temp/
-
-# Add later
-*/object-methods.js
-*/object-methods.test.js
-*/array-methods.js
-*/array-methods.test.js
-*/challenge.test.js
-*/challenge.js
-
