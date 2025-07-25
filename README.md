@@ -10,16 +10,10 @@ js-fundamentals-jest/
 │   ├── conditionals.js         # If/else functions
 │   ├── loops.js                # Loop functions
 │   ├── arrays.js               # Array manipulation functions
-│   ├── array-methods.js        # JavaScript array methods practice
-│   ├── object-methods.js       # JavaScript object methods practice
-│   └── challenge.js            # Advanced challenge function
 ├── tests/
 │   ├── conditionals.test.js    # Tests for if/else functions
 │   ├── loops.test.js           # Tests for loop functions
 │   ├── arrays.test.js          # Tests for array functions
-│   ├── array-methods.test.js   # Tests for JavaScript array methods
-│   ├── object-methods.test.js  # Tests for JavaScript object methods
-│   └── challenge.test.js       # Advanced challenge tests
 ├── package.json                # Project configuration
 ├── jest.config.js              # Jest test configuration
 └── README.md                   # This file
