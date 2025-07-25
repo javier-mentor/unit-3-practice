@@ -1,0 +1,29 @@
+{
+  "name": "js-fundamentals-jest",
+  "version": "1.0.0",
+  "description": "Learn JavaScript fundamentals",
+  "main": "your-solutions",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:verbose": "jest --verbose",
+    "test:silent": "jest --silent",
+    "test:clear": "jest --clearCache"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "jest",
+    "testing",
+    "education"
+  ],
+  "author": "Javier Montero",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
